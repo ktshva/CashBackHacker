@@ -2,6 +2,7 @@ package ru.netology;
 
 import static org.testng.Assert.*;
 import org.testng.annotations.Test;
+
 public class CashbackHackServiceTest {
 
     @Test
